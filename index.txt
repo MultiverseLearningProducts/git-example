@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Now I am making even more changes
+=======
+Making some changes in the file on GitHub
+>>>>>>> d7f5e5d4a3d31e29d753aae8cfaa152a6c9ed73c
